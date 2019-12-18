@@ -1,0 +1,54 @@
+header{
+    border-style: solid;
+    border-width: 8px;
+    border-color: blue;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+h1{
+    background-color: black;
+    color: white;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+li{
+    
+}
+
+button {
+    background-color: orange;
+    border-radius: 6px;
+    padding: 8px;
+    margin: 5px;
+}
+
+h2{
+    background-color: black;
+    color: rgb(255, 192, 74);
+}
+
+div{
+    background-color: cyan;
+    color: purple;
+}
+
+main{
+    border-style: solid;
+    border-width: 8px;
+    border-color: red;
+    padding: 50px;
+}
+
+footer{
+    border-style: solid;
+    border-width: 8px;
+    border-color: green;
+    padding: 50px;
+    font-weight: bold;
+}
